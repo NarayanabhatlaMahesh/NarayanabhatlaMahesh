@@ -23,7 +23,11 @@ Tech Stack
 
 <a href="https://maheshnarayanabhatla.42web.io">  My Portfolio</a> 
 
-
+<style>
+  p{
+    font-family: 'Montserrat', sans-serif;
+  }
+</style>
 
 <!---
 MaheshNarayanabhatla-1276/MaheshNarayanabhatla-1276 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
