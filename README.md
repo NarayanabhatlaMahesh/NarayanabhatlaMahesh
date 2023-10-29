@@ -1,11 +1,8 @@
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Montserrat&display=swap" rel="stylesheet">
 
 <h1>👋 Hi, I’m @MaheshNarayanabhatla-1276</h1>
-<ul style="font-family:Montserrat;">
+<ul>
 <li>👀 I’m interested in ... technical stuffs.</li>
-<li>🌱 I’m currently learning ... DL , persuing B.Tech</li>
+<li>🌱 I’m currently learning ... DL , B.Tech graduate </li>
 <li>💞️ I’m looking to collaborate on ...   FullStack, machine learning , deep learning , AI </li>
 <li>📫 How to reach me ...    7995320488, numamahesh2000@gmail.com</li>
 </ul>
