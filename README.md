@@ -1,3 +1,6 @@
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Montserrat&display=swap" rel="stylesheet">
 <h1>👋 Hi, I’m @MaheshNarayanabhatla-1276</h1>
 <ul>
 <li>👀 I’m interested in ... technical stuffs.</li>
