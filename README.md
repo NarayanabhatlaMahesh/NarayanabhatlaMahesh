@@ -9,7 +9,7 @@
 languages
 <ul>
   <li>
-    ![js](https://img.shields.io/badge/Javascript-grey?style=for-the-badge&logo=javascript)
+    <img>![js](https://img.shields.io/badge/Javascript-grey?style=for-the-badge&logo=javascript)</li></img>
   </li>
   <li>
     ![js](https://img.shields.io/badge/Javascript-grey?style=for-the-badge&logo=python)
