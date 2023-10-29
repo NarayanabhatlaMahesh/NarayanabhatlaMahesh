@@ -22,14 +22,14 @@ languages
 ![js](https://img.shields.io/badge/sklearn-grey?style=for-the-badge&logo=scikit-learn)
 <!--- tensorflow --->
 ![js](https://img.shields.io/badge/tensorflow-grey?style=for-the-badge&logo=tensorflow)
-<!--- javascript --->
-![js](https://img.shields.io/badge/django-grey?style=for-the-badge&logo=django)
-<!--- javascript --->
-![js](https://img.shields.io/badge/django-grey?style=for-the-badge&logo=django)
-<!--- javascript --->
-![js](https://img.shields.io/badge/django-grey?style=for-the-badge&logo=django)
-<!--- javascript --->
-![js](https://img.shields.io/badge/django-grey?style=for-the-badge&logo=django)
+<!--- node --->
+![js](https://img.shields.io/badge/node-grey?style=for-the-badge&logo=node)
+<!--- c --->
+![js](https://img.shields.io/badge/c-grey?style=for-the-badge&logo=c)
+<!--- c++ --->
+![js](https://img.shields.io/badge/c++-grey?style=for-the-badge&logo=c++)
+<!--- java --->
+![js](https://img.shields.io/badge/java-grey?style=for-the-badge&logo=java)
 
 ![Black Minimal Motivation Quote LinkedIn Banner](https://github.com/MaheshNarayanabhatla-1276/MaheshNarayanabhatla-1276/assets/66712941/41bc1570-c66d-4f3e-9116-a22eb4745796)
 
