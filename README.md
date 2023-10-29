@@ -6,7 +6,7 @@
 <li>📫 How to reach me ...    7995320488, numamahesh2000@gmail.com</li>
 </ul>
 
-languages
+Tech Stack
 <br/>
 <!--- javascript --->
 ![js](https://img.shields.io/badge/javascript-grey?style=for-the-badge&logo=javascript) ![js](https://img.shields.io/badge/python-grey?style=for-the-badge&logo=python) ![js](https://img.shields.io/badge/django-grey?style=for-the-badge&logo=django) ![js](https://img.shields.io/badge/react-grey?style=for-the-badge&logo=react) 
