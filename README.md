@@ -13,7 +13,7 @@ languages
 <!--- mysql --->
 ![js](https://img.shields.io/badge/mysql-grey?style=for-the-badge&logo=mysql) ![js](https://img.shields.io/badge/sklearn-grey?style=for-the-badge&logo=scikit-learn) ![js](https://img.shields.io/badge/tensorflow-grey?style=for-the-badge&logo=tensorflow)
 <!--- node --->
-![js](https://img.shields.io/badge/node-grey?style=for-the-badge&logo=node) ![js](https://img.shields.io/badge/c-grey?style=for-the-badge&logo=c) ![js](https://img.shields.io/badge/c++-grey?style=for-the-badge&logo=cplusplus) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![js](https://img.shields.io/badge/c-grey?style=for-the-badge&logo=c) ![js](https://img.shields.io/badge/c++-grey?style=for-the-badge&logo=cplusplus) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 
 ![Black Minimal Motivation Quote LinkedIn Banner](https://github.com/MaheshNarayanabhatla-1276/MaheshNarayanabhatla-1276/assets/66712941/41bc1570-c66d-4f3e-9116-a22eb4745796)
