@@ -7,6 +7,7 @@
 </ul>
 
 languages
+<br/>
 ![js](https://img.shields.io/badge/javascript-grey?style=for-the-badge&logo=javascript)
 ![js](https://img.shields.io/badge/python-grey?style=for-the-badge&logo=python)
 
