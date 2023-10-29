@@ -27,7 +27,7 @@ languages
 <!--- c --->
 ![js](https://img.shields.io/badge/c-grey?style=for-the-badge&logo=c)
 <!--- c++ --->
-![js](https://img.shields.io/badge/c++-grey?style=for-the-badge&logo=gnu)
+![js](https://img.shields.io/badge/c++-grey?style=for-the-badge&logo=cplusplus)
 <!--- java --->
 ![js](https://img.shields.io/badge/java-grey?style=for-the-badge&logo=jdk)
 
