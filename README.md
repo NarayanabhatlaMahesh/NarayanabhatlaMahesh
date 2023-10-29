@@ -8,8 +8,17 @@
 
 languages
 <br/>
+//javascript
 ![js](https://img.shields.io/badge/javascript-grey?style=for-the-badge&logo=javascript)
 ![js](https://img.shields.io/badge/python-grey?style=for-the-badge&logo=python)
+![js](https://img.shields.io/badge/django-grey?style=for-the-badge&logo=django)
+![js](https://img.shields.io/badge/django-grey?style=for-the-badge&logo=django) 
+![js](https://img.shields.io/badge/django-grey?style=for-the-badge&logo=django)
+![js](https://img.shields.io/badge/django-grey?style=for-the-badge&logo=django)
+![js](https://img.shields.io/badge/django-grey?style=for-the-badge&logo=django)
+![js](https://img.shields.io/badge/django-grey?style=for-the-badge&logo=django)
+![js](https://img.shields.io/badge/django-grey?style=for-the-badge&logo=django)
+![js](https://img.shields.io/badge/django-grey?style=for-the-badge&logo=django)
 ![js](https://img.shields.io/badge/django-grey?style=for-the-badge&logo=django)
 
 ![Black Minimal Motivation Quote LinkedIn Banner](https://github.com/MaheshNarayanabhatla-1276/MaheshNarayanabhatla-1276/assets/66712941/41bc1570-c66d-4f3e-9116-a22eb4745796)
