@@ -2,7 +2,7 @@
 <h1>👋 Hi, I’m @MaheshNarayanabhatla-1276</h1>
 <ul>
 <li>👀 I’m interested in ... technical stuffs.</li>
-<li>🌱 I’m currently learning ...  B.Tech graduate, ML enthusist </li>
+<li>🌱 I’m currently persuing ...  M.Tech graduate, ML enthusist </li>
 <li>💞️ I’m looking to collaborate on ...   FullStack, Machine Learning , Deep Learning , AI </li>
 <li>📫 How to reach me ...    7995320488, numamahesh2000@gmail.com</li>
 </ul>
