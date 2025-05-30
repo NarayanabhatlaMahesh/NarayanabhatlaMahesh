@@ -1,11 +1,8 @@
+# Hi there 👋, I'm Narayanabhatla Mahesh
 
-<h1>👋 Hi, I’m @MaheshNarayanabhatla-1276</h1>
-<ul>
-<li>👀 I’m interested in ... technical stuffs.</li>
-<li>🌱 I’m currently persuing ...  M.Tech graduate, ML enthusist </li>
-<li>💞️ I’m looking to collaborate on ...   FullStack, Machine Learning , Deep Learning , AI </li>
-<li>📫 How to reach me ...    7995320488, numamahesh2000@gmail.com</li>
-</ul>
+## 📊 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=NarayanabhatlaMahesh&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NarayanabhatlaMahesh&layout=compact&theme=radical)
 
 Tech Stack
 <br/>
